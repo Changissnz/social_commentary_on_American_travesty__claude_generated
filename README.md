@@ -6,6 +6,7 @@ A series of articles, written by Claude Sonnet 4.6, with the help of my input. S
 1. [All Madness Seems To Point to America](#All-Madness-Seems-To-Point-to-America)
 2. [The Caucasian Bastards Thought](#The-Caucasian-Bastards-Thought)
 3. [The Patriarch's Head](#The-Patriarchs-Head)
+4. [Restarting an Old War with New Parthia](#Restarting-an-Old-War-with-New-Parthia)
 
 
 ## All Madness Seems To Point to America
@@ -516,3 +517,185 @@ The critique is not that old men should not exist, or that wealth is inherently 
 - Labor Notes. "PATCO's Lessons for This Crisis." April 2025.
 - Self Financial. "How Big Is the Generational Wealth Gap in America?" August 2025.
 - CBS News. "Wealth Inequality in America Just Hit Its Widest Gap in More Than 3 Decades." January 2026.
+
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+
+
+## Restarting an Old War with New Parthia
+
+*A Social Critique — March 12, 2026*
+
+---
+
+> *"The attack and killing of Iran's supreme leader is a grave violation of Iran's sovereignty and security. It tramples on the purposes and principles of the UN Charter and basic norms in international relations."*
+> — Chinese Foreign Ministry, March 2, 2026
+
+---
+
+### I. The Ancient Wound, Reopened
+
+In the year 53 BCE, a Roman army under Marcus Licinius Crassus marched east into Parthia — roughly what is today Iran and Iraq — with the confidence of a civilization that had come to believe its military dominance was the natural order of things. What followed was the Battle of Carrhae, one of Rome's worst military catastrophes, in which 20,000 legionnaires were killed and 10,000 captured. The Parthians, whose empire had endured for centuries before Rome noticed it, were not impressed by Roman prestige. They were not deterred by Roman precedent. And they fought on terrain and by methods that Roman strategic doctrine, optimized for different adversaries, was not prepared to counter.
+
+The United States and Israel launched Operation Epic Fury on February 28, 2026. Within hours, Supreme Leader Ali Khamenei was dead, his compound destroyed, and the first phase of a campaign aimed at decapitating the Iranian leadership and eliminating its nuclear and missile infrastructure was underway.[1] The operation was, by the narrow metrics that opening strikes are assessed by, a striking military success. By the broader metrics by which wars are ultimately judged — political outcome, strategic durability, the arithmetic of what was destroyed versus what was set in motion — the verdict is considerably less certain.
+
+Rome never really solved the Parthian problem. Successive emperors launched campaigns to the east; successive campaigns ended in exhaustion, accommodation, or catastrophe. The Parthians had depth, patience, and the permanent geographic advantage of interior lines. They did not need to win. They needed only to not lose.
+
+*[1] Wikipedia, "2026 Iran War," citing contemporaneous press reporting, February 28, 2026.*
+
+---
+
+### II. What "Winning" Would Actually Require
+
+Thirteen days into Operation Epic Fury, US Central Command reports striking approximately 6,000 targets across Iran, destroying the bulk of its surface navy, and eliminating multiple senior members of the IRGC and the broader Iranian security and intelligence apparatus.[2] Trump has claimed the destruction of eighty to ninety percent of Iran's navy and air force, and has demanded unconditional surrender. Iranian President Masoud Pezeshkian has countered with three conditions for ending the war: recognition of Iranian sovereign rights, war reparations, and international guarantees against future aggression.[3]
+
+These opening positions define the enormous distance between what victory would require and what is plausible. Unconditional surrender from a state of eighty-nine million people — whose citizens rallied in their thousands in Tehran to show solidarity even as US and Israeli bombs fell on the capital — is not a negotiated outcome. It is a fantasy projection, and experienced Iran analysts have noted as much since Day One.
+
+What winning actually requires, in any sustainable sense, is not merely the destruction of Iran's military infrastructure. Infrastructure can be rebuilt; enrichment programs can be reconstituted in dispersed or hardened facilities that airstrikes cannot reach without ground confirmation. What winning requires is a political transformation inside Iran — the emergence of a government that accepts a posture of strategic subordination to American preferences. This is what "regime change from the skies" means in practice. UK Prime Minister Keir Starmer, in a pointed remark, stated on March 1 that he "does not believe in regime change from the skies" — a diplomatic formulation conveying the considered judgment of a close ally that the stated objective is not achievable by the chosen means.[4]
+
+The Parthians did not need a formal military victory over Rome. They needed to remain politically cohesive long enough for Rome to exhaust itself. Iran has now inaugurated Mojtaba Khamenei — the late Supreme Leader's son — as his successor, signaling institutional continuity rather than collapse.[4] The regime, whatever its internal weaknesses, has not obliged its adversaries by disintegrating.
+
+*[2] Al Jazeera, "Iran war: What is happening on day 13 of US-Israel attacks?" March 12, 2026.*
+*[3] Al Jazeera live blog, March 12, 2026.*
+*[4] House of Commons Library, "US-Israel strikes on Iran: February/March 2026," March 2026.*
+
+---
+
+### III. The Strait and the Global Economy
+
+The Strait of Hormuz is a body of water roughly thirty-three miles wide at its narrowest point. Through it passes approximately twenty percent of the world's daily oil consumption — roughly twenty million barrels a day — along with significant volumes of liquefied natural gas, much of it destined for the energy-dependent economies of Asia.[5] Iran closed it. The International Energy Agency has called the resulting disruption the largest supply disruption in the history of the global oil market.[6]
+
+The economic consequences arrived before the smoke had cleared over Tehran. Brent crude, which closed at around $70 per barrel at the end of February, had surged to over $110 within days.[5] Goldman Sachs, in a note published March 3, estimated that traders were demanding approximately fourteen dollars more per barrel than before the conflict as a risk premium, with models projecting prices could climb substantially further if disruptions persisted.[7] By March 9, oil had spiked to nearly $120 a barrel, sending Japan's Nikkei index plunging more than five percent in a single session.[8] California gasoline prices crossed five dollars per gallon in the second week of March.[5]
+
+The stock markets on both sides of the Atlantic registered the shock. The Dow fell more than 400 points on March 2; the broader S&P 500 and Nasdaq were whipsawed with daily swings exceeding two percent; Wall Street's VIX fear gauge jumped nine percent.[9] CNN's Fear and Greed Index slipped into "extreme fear."[6] Former Federal Reserve Chair Janet Yellen warned that, depending on how oil market disruption developed, the Fed's job of containing inflation would become materially harder.[5]
+
+The Gulf Cooperation Council countries that depend on the Strait for their own exports — Kuwait, Iraq, Saudi Arabia, the UAE — collectively saw regional oil production drop by a reported 6.7 million barrels per day by March 10.[5] Qatar's gas export facilities came under drone attack. Regional airspace closed. Thousands of flights were cancelled; Emirates Airlines and the other major Gulf carriers absorbed significant revenue losses.[5]
+
+Morgan Stanley, in a note to wealth management clients, advised increasing exposure to defense, security, aerospace, and industrial resilience sectors — a portfolio recommendation that doubles as a fairly precise map of who benefits from a prolonged conflict.[10] The answer, as it usually is, is not the people who live near oil infrastructure or in the flight paths of drones.
+
+*[5] Wikipedia, "Economic impact of the 2026 Iran war," March 2026.*
+*[6] CNN Business, "Stocks fall as Iran's new supreme leader vows to keep Strait of Hormuz closed," March 12, 2026.*
+*[7] Goldman Sachs, "How Will the Iran Conflict Impact Oil Prices?" March 3, 2026.*
+*[8] NPR, "World shares tumble as Iran war pushes oil prices," March 9, 2026.*
+*[9] CNN Business, "US stocks recover, gold rises and oil surges as war with Iran spreads," March 2, 2026.*
+*[10] Morgan Stanley, "Iran Conflict: Oil Price Impacts and Inflation," March 2026.*
+
+---
+
+### IV. The School at Minab
+
+On the morning of February 28, a Tomahawk Land Attack Missile struck the Shajareh Tayyiba girls' elementary school in Minab, a city in southern Iran. Iranian state media reported at least 168 children and 14 teachers killed. A preliminary Department of Defense investigation found that the US military was behind the strike, conducted while targeting a nearby IRGC naval facility; the missile was guided to coordinates derived from outdated Defense Intelligence Agency mapping.[11]
+
+President Trump, in successive public statements, blamed Iran for the bombing, suggested that Iran also possessed Tomahawk missiles — a claim military experts dismissed as factually impossible — and subsequently said he "did not know about" the preliminary investigation findings when asked directly by a CNN correspondent.[11] Republican Senator John Kennedy, a Trump ally, stated on CNN that the US was behind the strike and that it was "a terrible, terrible mistake." He added: "The kids are still dead."[11]
+
+Senate Democrats sent a letter to Defense Secretary Pete Hegseth demanding answers and noting, in dry legal language that understated the moral weight of what they were describing, that "the United States and Israel must abide by US and international law, including the law of armed conflict."[11]
+
+What Minab represents, beyond the specific horror of 168 dead children in a school building, is the foundational problem with wars conducted by technology against dense human geography. Coordinates derived from databases have expiration dates. Targets move. Civilian structures appear adjacent to military installations because cities are not organized for the convenience of air-tasking orders. The gap between the intelligence picture and the on-the-ground reality is a permanent feature of airpower, and it fills with dead civilians at a rate that no amount of precision guidance fully resolves.
+
+The United States has killed children in Yemen, in Syria, in Afghanistan, in Iraq, in Pakistan. In each case, the initial response followed the same template: denial, then minimization, then formal investigation, then careful language, then the next strike. The innovation at Minab is only the speed with which the arc was compressed into a single news cycle.
+
+*[11] CNN Politics, "US strike likely hit Shajareh Tayyiba school in Minab, Iran due to outdated intelligence," March 11, 2026. Al Jazeera, "How Trump has addressed the deadly Iran school bombing," March 11, 2026.*
+
+---
+
+### V. American Prestige and the World That Is Watching
+
+It is important to register what happened in international diplomatic space in the hours after the first strikes. China's foreign ministry called the assassination of Khamenei "a grave violation of Iran's sovereignty and security" that "tramples on the purposes and principles of the UN Charter."[12] Russia's foreign ministry described the strikes as "a pre-planned and unprovoked act of armed aggression against a sovereign and independent UN member state" and warned of potential "humanitarian, economic and possibly radiological catastrophe."[13] France, Germany, and the UK jointly condemned the Iranian counter-strikes while separately distancing themselves from the American offensive operation. Spain's prime minister rejected what he called "unilateral military action by the United States and Israel" and said it "represents an escalation and contributes to a more uncertain and hostile international order."[13]
+
+This is the international reaction to an American military operation, as recorded by the foreign ministries and heads of government of countries that, a decade ago, would have calibrated their public statements more carefully. The diplomatic declension is significant. The post-Cold War American international order — the one in which American military action could be conducted with at least the nominal acquiescence of most major powers — has been visibly fraying for years. This conflict did not cause that fraying. But it may accelerate it.
+
+The Atlantic Council, analyzing the global reaction, noted that the war had exposed "yet again" Russia's inability to protect its nominal allies, while simultaneously giving China an opportunity to position itself as the responsible multilateral actor demanding a return to diplomacy and international law.[14] China's "Look East" relationship with Iran, which culminated in a 25-year strategic partnership, gives Beijing a long-term economic interest in Iranian stability that American military action directly threatens.[15] Beijing purchased more than 80 percent of Iran's exported oil in 2025, accounting for 13.5 percent of all crude China imported by sea.[16]
+
+The Stimson Center's annual risk assessment, published at the start of 2026, characterized the broader pattern with precision: "The old world is dying, and the new world struggles to be born: now is the time of monsters." It identified Iran-US tensions as a top global risk, noted that the Doomsday Clock had moved to 89 seconds to midnight — its closest point ever recorded — and observed that the architecture of international arms control had effectively unraveled.[17]
+
+American prestige, in the most traditional sense, depends on a combination of hard power projection and perceived legitimacy — the capacity to act and the recognition by others that the action falls within accepted norms. The first component is not in question; Operation Epic Fury has demonstrated, if demonstration were needed, that American military force can reach deep inside Iran. The second component is now seriously contested. When your close ally's prime minister says publicly that regime change from the skies is not something he believes in; when the Omani foreign minister who was brokering nuclear talks says he is "dismayed"; when the entire framework of Security Council legitimacy is being used against you rather than with you — prestige is being spent, not earned.[4]
+
+*[12] Chinese Foreign Ministry, "Spokesperson Mao Ning's Regular Press Conference," March 2, 2026.*
+*[13] NPR, "Here's how world leaders are reacting to the U.S.-Israel strikes on Iran," February 28, 2026.*
+*[14] Atlantic Council, "Experts react: How the world is responding to the US-Israeli war with Iran," March 3, 2026.*
+*[15] Special Eurasia, "How Russian and China Tech Underpins Iranian Strategic Depth," March 1, 2026.*
+*[16] CNBC, "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing," March 1, 2026.*
+*[17] Stimson Center, "Top Ten Global Risks for 2026," January 2026.*
+
+---
+
+### VI. The Stakes if Something Goes Wrong
+
+The word "escalation" appears in almost every diplomatic statement issued since February 28, and it is worth being precise about what that escalation could look like, because the scenarios are not abstract.
+
+Iran has threatened to target any US or Israeli vessel attempting to transit the Strait of Hormuz, and has struck at least two foreign tankers in the Gulf.[3] The closure of the Strait is already, as the IEA noted, the largest supply disruption in the history of the global oil market. If it persists for weeks rather than days, the economists' models for its downstream effects on inflation, growth, and financial stability become operative. Goldman Sachs projects oil prices "substantially" above current levels under scenarios of persistent disruption. The Motley Fool's historical analysis notes that during the 1990 Gulf War, crude prices rose 135 percent; that recessions frequently follow large oil price shocks; and that the United States is entering this shock while already dealing with affordability pressures from elevated post-pandemic price levels.[18]
+
+Beyond the economic, there is the regional military dimension. Hezbollah entered the conflict on March 2, firing on northern Israel and prompting Israeli expansion into Lebanon, where the death toll has already surpassed 630 civilians.[2] Iran has struck US bases in Kuwait, Bahrain, and Erbil, Iraq. Gulf states — whose civilian populations were not consulted on whether they wished to host the staging areas for a war now being answered with drones on their airports and oil facilities — are scrambling to intercept incoming Iranian ordnance while maintaining the fiction of normalcy.[3] A KC-135 Stratotanker crashed in western Iraq on March 12.[3]
+
+The deeper risk is the one that strategic analysts are careful to mention and then carefully not to dwell on: nuclear proliferation. The Stimson Center's risk assessment identified the broader logic with uncomfortable clarity — the destruction of Iran's visible nuclear program does not eliminate Iranian nuclear knowledge, and a post-conflict Iran that concludes it survived this campaign because it lacked a nuclear deterrent will draw the lesson that it needs one. The same logic that motivated North Korea's nuclear program, that motivated Israel's, that underlies every proliferation dynamic since Hiroshima: the state that was attacked and survived without nuclear weapons asks whether it would have been attacked at all if it had possessed them. If the answer is no — and in the Iranian strategic calculus it almost certainly will be — then the long-term consequence of Operation Epic Fury may be a nuclear Iran rather than a denuclearized one.[17]
+
+There is also the question of what a prolonged, inconclusive campaign does to the American domestic political situation. The war was launched without congressional authorization. Senate Democrats, in their letter to Hegseth, noted this explicitly: "To be clear, the war against Iran is a war of choice without Congressional authorization."[11] The first 100 hours of the operation cost an estimated $3.7 billion — approximately $891 million per day — with most of the spending not budgeted for, according to CSIS.[2] The six-day cost, according to lawmakers briefed in a Pentagon session, had already exceeded $11.3 billion.[2] Trump has said that defense manufacturers will "quadruple" weapons production to sustain the campaign.
+
+That spending happens against the backdrop of an American economy that was already grappling with tariff-induced inflation, elevated interest rates, and an AI-driven stock market that was — even before the war began — showing signs of overvaluation. A sustained Middle East war, with oil at $100 or above and supply chains disrupted across the Gulf region, is not a manageable backdrop for that economy. Former Federal Reserve Chair Yellen's warning was not the language of reassurance.
+
+*[18] Motley Fool, "How Will the Conflict in Iran Impact the Stock Market?" March 10, 2026.*
+
+---
+
+### VII. The Rhetoric and the History
+
+There is a version of events in which Operation Epic Fury is presented as the long-deferred reckoning with a regime that has been destabilizing the region for decades — that has supplied drones to Russia for use in Ukraine, that has sustained Hezbollah and Hamas, that has pursued a nuclear program under the protection of diplomatic ambiguity. This version is not without factual grounding. The Iranian regime has done all of these things, and more.
+
+But there is another version of the same events, one that the historians of a future decade will probably reconstruct in detail: in which direct nuclear negotiations were underway in Oman and Geneva in February 2026; in which a second round of talks had been scheduled; in which the Omani foreign minister, Badr Albusaidi, who was mediating those talks, said on the day of the strikes that "active and serious" negotiations had been in progress; and in which the joint US-Israeli strikes were launched at the precise moment when the diplomatic track was, by the accounts of those involved in it, actually producing movement.[4]
+
+The pattern repeats because the structural incentives that produce it have not changed. Wars of this kind are decided by a small number of actors whose exposure to their consequences is minimal, launched into environments whose complexity outstrips any planning document, justified by intelligence assessments that, history has repeatedly shown, are susceptible to motivated interpretation, and sustained by institutions — defense contractors, think tanks, political actors whose domestic position improves with a foreign enemy — that benefit from their continuation.
+
+The Parthians did not share Rome's model of civilization, did not accept Rome's account of why Roman hegemony was beneficial, and were not impressed by Rome's self-image as the carrier of order in a disordered world. Their successors, the Sassanid Persians, would outlast the Western Roman Empire entirely. The civilization that presently occupies the Iranian plateau has been there, in one political configuration or another, for twenty-five hundred years. The American security state, in its current form, has been making decisions about the Middle East for roughly eighty.
+
+The new Parthia, like the old one, does not need to win. It needs only to survive — and to make the cost of the campaign, to those who launched it, ultimately exceed what they were willing to pay.
+
+---
+
+### Coda: The Price of Certainty
+
+What is most striking about Operation Epic Fury, thirteen days in, is not the destruction it has caused — which is real, documented, and extensive — but the certainty with which it was conceived. The certainty that airpower could achieve what forty years of sanctions, covert operations, and diplomatic pressure had not. The certainty that a nation of eighty-nine million, with a political culture that routes deep national grievance through the vessel of state resistance to external pressure, would collapse when its leadership was killed. The certainty that the diplomatic track, which was producing movement, could be abandoned without cost.
+
+Certainty, in strategic affairs, is usually the most expensive thing you can buy. It forecloses the options that uncertainty keeps open. It converts what might have been a negotiated outcome into a test of wills in which neither party can back down without what looks like capitulation. It makes the war longer, the bill larger, and the eventual settlement — if there is one — further from what either side wanted than it was before the first bomb fell.
+
+The school at Minab is there in the record, with 168 names attached to it. The Strait of Hormuz is there, half-closed, with $120 oil flowing through what remains of its traffic. The diplomatic table in Geneva is empty. The Doomsday Clock reads 89 seconds to midnight.
+
+Some wars are necessary. Some are chosen. The difference is important, and it will matter long after the certainty that launched this one has been forgotten.
+
+---
+
+### Selected Sources
+
+- Wikipedia. "2026 Iran War." Updated continuously; reflects sources through March 12, 2026.
+- Wikipedia. "Economic impact of the 2026 Iran war." March 2026.
+- House of Commons Library. "US-Israel strikes on Iran: February/March 2026." CBP-10521, March 2026.
+- Al Jazeera. Daily war updates, Days 8–13, March 7–12, 2026. aljazeera.com
+- Al Jazeera live blog. March 12, 2026 (three conditions for peace / tanker attacks).
+- CNN Politics. "US strike likely hit Shajareh Tayyiba school in Minab, Iran due to outdated intelligence." March 11, 2026.
+- Al Jazeera. "How Trump has addressed the deadly Iran school bombing." March 11, 2026.
+- CNN Business. "Stocks fall as Iran's new supreme leader vows to keep Strait of Hormuz closed." March 12, 2026.
+- CNN Business. "US stocks recover, gold rises and oil surges as war with Iran spreads." March 2, 2026.
+- CNN Business. "Oil surges and stock futures sink as war in Iran threatens crude supply." March 1, 2026.
+- NPR. "Oil prices surge, but no panic yet, as Iran war continues." March 2, 2026.
+- NPR. "World shares tumble as Iran war pushes oil prices." March 9, 2026.
+- NPR. "Here's how world leaders are reacting to the U.S.-Israel strikes on Iran." February 28, 2026.
+- Goldman Sachs. "How Will the Iran Conflict Impact Oil Prices?" March 3, 2026.
+- Morgan Stanley. "Iran Conflict: Oil Price Impacts and Inflation." March 2026.
+- The Motley Fool. "How Will the Conflict in Iran Impact the Stock Market?" March 10, 2026.
+- CBS News. "Iran war live updates." March 12, 2026 (oil prices, tanker attacks, KC-135 crash).
+- Atlantic Council. "Experts react: How the world is responding to the US-Israeli war with Iran." March 3, 2026.
+- Chinese Foreign Ministry. Spokesperson Mao Ning press conference. March 2, 2026.
+- CNBC. "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing." March 1, 2026.
+- TIME. "How the World Is Reacting to the Attack on Iran." February 28–March 1, 2026.
+- Special Eurasia. "How Russian and China Tech Underpins Iranian Strategic Depth." March 1, 2026.
+- Japan Times. "U.S. insiders see Iran war hurting China-backed 'Axis of Chaos'." March 5, 2026.
+- Al Jazeera Opinion. "Geopolitical analysis of the imposed war against Iran." March 10, 2026.
+- Annahar. "2026 Iran war: How global powers are being tested." March 2026.
+- Stimson Center. "Top Ten Global Risks for 2026." January 2026.
