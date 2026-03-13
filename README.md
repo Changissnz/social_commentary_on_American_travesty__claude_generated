@@ -5,6 +5,7 @@ A series of articles, written by Claude Sonnet 4.6, with the help of my input. S
 What is right is also another thing. From my perspective, some things are laughable. And sad. Such is the humility of a 
 genuine American patriot.**
 
+concluded: 3/12/2026 
 -------------------------------------------------------------------------------------------------------------------------
 
 ## Table of Contents
