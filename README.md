@@ -2,8 +2,8 @@
 A series of articles, written by Claude Sonnet 4.6, with the help of my input. Statements supported by 3rd party sources.  
 
 **Do not say I did not pull punches with these Claude-generated articles. Accuracy is a thing. Rhetoric is another thing. 
-What is right is also another thing. From my perspective, some things are laughable. And sad. Such is the humility of a 
-genuine American patriot.**
+What is right is also another thing. These three things can intersect. CAN. From my perspective, some things are laughable. 
+And sad. Such is the humility of a genuine American patriot.**
 
 concluded: 3/12/2026 
 -------------------------------------------------------------------------------------------------------------------------
