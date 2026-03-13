@@ -1,7 +1,6 @@
 # Social Commentary on American Travesty: Claude Generated
 A series of articles, written by Claude Sonnet 4.6, with the help of my input. Statements supported by 3rd party sources.  
 
-concluded: 3/12/2026
 -------------------------------------------------------------------------------------------------------------------------
 
 ## Table of Contents
